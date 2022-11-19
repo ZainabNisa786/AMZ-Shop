@@ -1,0 +1,62 @@
+.header{
+    background-color:  rgb(130, 127, 127);
+    color: rgb(255, 173, 8);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    padding: 1px;
+    text-align: center; 
+}
+.h1{
+    padding: 0;
+}
+p{
+    color: azure;
+}
+.logo{
+width: 300px;
+height:300px;
+}
+.box{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width:300px;
+    height: 300px;
+    padding-left: 100px;
+    padding-right: 120px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    
+}
+.BOOK1,.BOOK2,.BOOK3,.BOOK4{
+    background-color: rgb(130, 127, 127);
+    width:500px;
+    height:900px;
+    margin: 20px;
+}
+.descript{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    color: aliceblue;
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+.btn{
+    width: 200px;
+    height: 80px;
+    margin: 5px;
+    font-size:30px;
+    font-weight: bold;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color:rgb(255, 173, 8) ;
+    
+}
